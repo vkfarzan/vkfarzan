@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farzan
-- 👀 I’m interested in Pythan, ML and DL
+- 👀 I’m interested in Pythan, Data Science and Machine Learning.
 - 🌱 I’m currently learning Python
 - 📫 vkfarzan [at] gmail . com
 
