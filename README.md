@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farzan
 - 👀 I’m interested in Pythan, Data Science and Machine Learning.
 - 🌱 I’m currently learning Python
-- 📫 vkfarzan [at] gmail . com
+- 📫 vahidiankamyar [at] gmail . com
 
 <!---
 vkfarzan/vkfarzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
