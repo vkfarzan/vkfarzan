@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farzan
 - 👀 I’m interested in Pythan, Data Science and Machine Learning.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
 - 📫 vahidiankamyar [at] gmail . com
 
 <!---
