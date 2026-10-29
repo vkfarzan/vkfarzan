@@ -19,4 +19,5 @@ A Python command-line number game with three difficulty levels and sound effects
 
 ---
 
-[Website](https://www.farzan.biz) · [GitHub](https://github.com/vkfarzan)
+[Website](https://vahidian.com) · [GitHub](https://github.com/vkfarzan)
+
